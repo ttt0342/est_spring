@@ -1,4 +1,4 @@
-package com.example.basic.Spring_240628;
+package com.example.basic;
 
 public interface UserRepositoryInterface {
     void save(User user);
