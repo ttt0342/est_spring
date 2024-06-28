@@ -1,9 +1,9 @@
-package Spring_240628;
+package com.example.basic.Spring_240628;
 
 import org.springframework.stereotype.Repository;
 
 @Repository
-public class UserRepository1 implements UserRepositoryInterface {
+public class UserRepositorysave implements UserRepositoryInterface {
 
     @Override
     public void save(User user) {

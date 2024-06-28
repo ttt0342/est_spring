@@ -1,4 +1,4 @@
-package Spring_240628;
+package com.example.basic.Spring_240628;
 
 import org.springframework.stereotype.Repository;
 
