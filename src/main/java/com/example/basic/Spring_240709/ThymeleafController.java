@@ -14,6 +14,7 @@ public class ThymeleafController {
         model.addAttribute("name1", name);
         return "index";
     }
+}
 
 
 //    public String index(Model model) {
@@ -26,4 +27,4 @@ public class ThymeleafController {
 //        // 속성값을 넣어주었으나 실제 화면에서는 p태그로 보인다. 이때 변수명을 맞춰주어야 화면에 뜬다.
 //        return "index";  //인덱스가 HTML 파일명과 다르면 에러 발생
 //    }
-}
+
